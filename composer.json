@@ -1,0 +1,16 @@
+{
+    "name": "cortex/router",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cortex\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "grcq",
+            "email": "me@grcq.dev"
+        }
+    ],
+    "require": {}
+}
